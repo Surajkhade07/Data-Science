@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Amit",
+    "Age": 15,
+    "Gender": "Male",
+    "Class": 10,
+    "Maths": 85,
+    "Science": 78,
+    "English": 88
+  },
+  {
+    "Name": "Riya",
+    "Age": 14,
+    "Gender": "Female",
+    "Class": 9,
+    "Maths": 92,
+    "Science": 89,
+    "English": 94
+  },
+  {
+    "Name": "Karan",
+    "Age": 16,
+    "Gender": "Male",
+    "Class": 10,
+    "Maths": 67,
+    "Science": 72,
+    "English": 65
+  },
+  {
+    "Name": "Pooja",
+    "Age": 15,
+    "Gender": "Female",
+    "Class": 10,
+    "Maths": 75,
+    "Science": 80,
+    "English": 79
+  },
+  {
+    "Name": "Anil",
+    "Age": 14,
+    "Gender": "Male",
+    "Class": 9,
+    "Maths": 58,
+    "Science": 60,
+    "English": 54
+  },
+  {
+    "Name": "Sneha",
+    "Age": 16,
+    "Gender": "Female",
+    "Class": 11,
+    "Maths": 89,
+    "Science": 91,
+    "English": 87
+  },
+  {
+    "Name": "Rahul",
+    "Age": 15,
+    "Gender": "Male",
+    "Class": 10,
+    "Maths": 73,
+    "Science": 70,
+    "English": 76
+  },
+  {
+    "Name": "Divya",
+    "Age": 14,
+    "Gender": "Female",
+    "Class": 9,
+    "Maths": 95,
+    "Science": 92,
+    "English": 98
+  },
+  {
+    "Name": "Vikas",
+    "Age": 16,
+    "Gender": "Male",
+    "Class": 11,
+    "Maths": 55,
+    "Science": 49,
+    "English": 60
+  },
+  {
+    "Name": "Nikita",
+    "Age": 15,
+    "Gender": "Female",
+    "Class": 10,
+    "Maths": 88,
+    "Science": 85,
+    "English": 90
+  }
+]
